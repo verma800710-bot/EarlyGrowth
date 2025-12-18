@@ -11,7 +11,7 @@ const fredoka = Fredoka({
 })
 
 export const metadata: Metadata = {
-  title: "Kids Learning App 🎈",
+  title: "EarlyGrowth",
   description: "Fun learning app for children aged 0-5",
   generator: "v0.app",
   icons: {
@@ -25,8 +25,8 @@ export const metadata: Metadata = {
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon.svg",
-        type: "image/svg+xml",
+        url: "/icon.png",
+        type: "image/png",
       },
     ],
     apple: "/apple-icon.png",
