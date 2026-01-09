@@ -1,6 +1,6 @@
 {
-    "name": "adaptive_learning",
-    "short_name": "adaptive_learning",
+    "name": "EarlyGrowth",
+    "short_name": "EarlyGrowth",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
